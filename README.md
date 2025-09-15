@@ -25,7 +25,7 @@ This project directly impacts the business by consolidating data, uncovering ven
 * Power BI (Interactive dashboards) 📈  
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://github.com/Gauravkale05/Vendor-Sales-Analysis/blob/main/SnapShot%20of%20the%20Dashboard.png)
+![Dashboard Preview](https://github.com/Gauravkale05/Vendor-Sales-Analysis-/blob/main/SnapShot%20of%20the%20Dashboard.png)
 
 ## 🔑 Key Insights:
 * 🏆 **Top Vendors**: Some vendors generate high profit despite moderate sales, while others have high sales but low margins due to freight costs.  
